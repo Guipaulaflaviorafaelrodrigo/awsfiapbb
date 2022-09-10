@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} alt="logo" />
-        <h1>TRABALHO DE CLOUD ARCHITECTURE & DEVOPS - JOSÉ CASTILLO LEMA</h1> 
+        <h1>TRABALHO DE CLOUD ARCHITECTURE & DEVOPS</h1> 
         <h2>INTEGRANTES:</h2>
         <p>344972 FLAVIO LIMA CONSTANCIO</p>                   
         <p>344769 GUILHERME OLIVEIRA MARÇANEIRO ZILSE</p>
